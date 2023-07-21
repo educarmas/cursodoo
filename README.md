@@ -1,4 +1,4 @@
-# 📣 Descripción del proyecto 
+# 📣 Descripción del proyecto en un Hackatón
 
 Cursodoo es una marketplace especializada en la venta de cursos de tecnología. Nuestro objetivo principal es ayudar a las personas, sin importar su nivel de conocimiento, a adquirir habilidades en el ámbito tecnológico, desde un nivel básico hasta niveles más avanzados.
 
